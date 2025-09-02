@@ -2,6 +2,7 @@
 
 **RhombusEarth** is a web application that visualizes recent global earthquakes on a 3D interactive globe using [CesiumJS](https://cesium.com/platform/cesiumjs/). It fetches real-time earthquake data from official APIs and displays all earthquakes from the last 30 days with magnitude greater than 5.
 
+just changing something for the repo status
 🌍 **Live Demo:** [https://rhombusearth.me/](https://rhombusearth.me/)
 
 ## Features
