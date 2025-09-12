@@ -5,6 +5,7 @@
 just changing something for the repo status
 🌍 **Live Demo:** [https://rhombusearth.me/](https://rhombusearth.me/)
 
+hey this is another just
 ## Features
 
 - **Real-time Earthquake Data:** Uses up-to-date seismic data for accurate visualization.
